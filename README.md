@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning japanse
 
 
-![gg](https://github.com/user-attachments/assets/a21b6da8-1ce3-4f1e-80ba-a87b8f9d61de)
+![gg](https://github.com/user-attachments/assets/12d9d7b9-43bc-441e-a8e3-d46c772b8234)
+
