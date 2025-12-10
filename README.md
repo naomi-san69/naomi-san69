@@ -32,5 +32,4 @@ Android:   TWRP, fastboot, AOSP, rooting, ROMs
 Desktop:   Hyprland, XFCE, GNOME
 Tools:     Git, Bash, adb, fastboot
 
-![gg](https://github.com/user-attachments/assets/12d9d7b9-43bc-441e-a8e3-d46c772b8234)
 
